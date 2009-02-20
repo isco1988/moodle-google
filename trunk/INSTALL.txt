@@ -1,0 +1,6 @@
+Install Instrucitons:
+1. Copy the blocks and auth directory to your root moodle directory.
+2. Naviagate to your Moodle site and login as a site administrator
+3. In the Site Administration Block click on the notificaitons link
+
+All Moodle Google blocks should be installed.  Please navigate to http://development.moodlerooms.com/course/view.php?id=30 to learn how to configure each block, and that authentication plugin.
